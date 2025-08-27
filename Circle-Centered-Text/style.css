@@ -1,0 +1,12 @@
+#circle{
+    height: 200px;
+    width: 200px;
+    background-color: #432818;
+    border-radius: 50%;
+    color: rgb(255, 255, 255);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 39px;
+
+}
