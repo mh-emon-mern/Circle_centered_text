@@ -10,3 +10,10 @@
     font-size: 39px;
 
 }
+body{
+    height: 100vh;    /* full screen height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
